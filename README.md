@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1873-calculate-special-bonus) |
 | [1667-fix-names-in-a-table](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1667-fix-names-in-a-table) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
