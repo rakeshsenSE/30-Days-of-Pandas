@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0196-delete-duplicate-emails) |
 | [1795-rearrange-products-table](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1795-rearrange-products-table) |
+| [1907-count-salary-categories](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
