@@ -23,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1907-count-salary-categories) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [0511-game-play-analysis-i](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
