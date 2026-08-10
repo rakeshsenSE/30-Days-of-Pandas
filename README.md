@@ -27,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [0596-classes-with-at-least-5-students](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0596-classes-with-at-least-5-students) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1484-group-sold-products-by-the-date](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
