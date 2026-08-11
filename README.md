@@ -29,24 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1484-group-sold-products-by-the-date](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1693-daily-leads-and-partners) |
-## Tree
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0572-subtree-of-another-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0572-subtree-of-another-tree) |
-## String Matching
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0572-subtree-of-another-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0572-subtree-of-another-tree) |
-## Hash Function
-|  |
-| ------- |
-| [0572-subtree-of-another-tree](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0572-subtree-of-another-tree) |
+
 <!---LeetCode Topics End-->
