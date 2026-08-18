@@ -33,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1280-students-and-examinations](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1280-students-and-examinations) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0607-sales-person](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
