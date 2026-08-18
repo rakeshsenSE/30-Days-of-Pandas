@@ -1,37 +1,65 @@
-# 30-Days-of-Pandas
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🐼 30 Days of Pandas — LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0595-big-countries](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0595-big-countries) |
-| [1757-recyclable-and-low-fat-products](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1757-recyclable-and-low-fat-products) |
-| [0183-customers-who-never-order](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0183-customers-who-never-order) |
-| [1148-article-views-i](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1148-article-views-i) |
-| [1683-invalid-tweets](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1683-invalid-tweets) |
-| [1873-calculate-special-bonus](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1873-calculate-special-bonus) |
-| [1667-fix-names-in-a-table](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1667-fix-names-in-a-table) |
-| [1517-find-users-with-valid-e-mails](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
-| [1527-patients-with-a-condition](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1527-patients-with-a-condition) |
-| [0177-nth-highest-salary](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0177-nth-highest-salary) |
-| [0176-second-highest-salary](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0176-second-highest-salary) |
-| [0184-department-highest-salary](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0184-department-highest-salary) |
-| [0178-rank-scores](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0178-rank-scores) |
-| [0196-delete-duplicate-emails](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0196-delete-duplicate-emails) |
-| [1795-rearrange-products-table](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1795-rearrange-products-table) |
-| [1907-count-salary-categories](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1907-count-salary-categories) |
-| [1741-find-total-time-spent-by-each-employee](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
-| [0511-game-play-analysis-i](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0511-game-play-analysis-i) |
-| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
-| [0596-classes-with-at-least-5-students](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0596-classes-with-at-least-5-students) |
-| [0586-customer-placing-the-largest-number-of-orders](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
-| [1484-group-sold-products-by-the-date](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1484-group-sold-products-by-the-date) |
-| [1693-daily-leads-and-partners](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1693-daily-leads-and-partners) |
-| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1280-students-and-examinations](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/1280-students-and-examinations) |
-| [0570-managers-with-at-least-5-direct-reports](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0570-managers-with-at-least-5-direct-reports) |
-| [0607-sales-person](https://github.com/rakeshsenSE/30-Days-of-Pandas/tree/master/0607-sales-person) |
-<!---LeetCode Topics End-->
+Welcome to the **30 Days of Pandas** repository! This repository contains clean, efficient, and well-explained solutions for LeetCode's SQL & Pandas problem set.
+
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C%2B%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
+![Sync Tool](https://img.shields.io/badge/Synced%20With-LeetHub%20v2-brightgreen)
+
+---
+
+## 📌 Problem Checklist
+
+### 🔍 Data Inspection & Filtering
+- [x] **0595** - Big Countries
+- [x] **1757** - Recyclable and Low Fat Products
+- [x] **0183** - Customers Who Never Order
+- [x] **1148** - Article Views I
+- [x] **1683** - Invalid Tweets
+
+### 🛠️ String Manipulation & Regular Expressions
+- [x] **1873** - Calculate Special Bonus
+- [x] **1667** - Fix Names in a Table
+- [x] **1517** - Find Users With Valid E-Mails
+- [x] **1527** - Patients With a Condition
+
+### 📊 Data Aggregation & Grouping
+- [x] **1741** - Find Total Time Spent by Each Employee
+- [x] **0511** - Game Play Analysis I
+- [x] **2356** - Number of Unique Subjects Taught by Each Teacher
+- [x] **0596** - Classes With at Least 5 Students
+- [x] **0586** - Customer Placing the Largest Number of Orders
+- [x] **1484** - Group Sold Products By The Date
+- [x] **1693** - Daily Leads and Partners
+- [x] **1050** - Actors and Directors Who Cooperated At Least Three Times
+
+### 🔗 Advanced Select, Joins & Subqueries
+- [x] **0177** - Nth Highest Salary
+- [x] **0176** - Second Highest Salary
+- [x] **0184** - Department Highest Salary
+- [x] **0178** - Rank Scores
+- [x] **0196** - Delete Duplicate Emails
+- [x] **1795** - Rearrange Products Table
+- [x] **1907** - Count Salary Categories
+- [x] **1378** - Replace Employee ID With The Unique Identifier
+- [x] **1280** - Students and Examinations
+- [x] **0570** - Managers with at Least 5 Direct Reports
+- [x] **0607** - Sales Person
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Primary Language:** Python (Pandas)
+* **Secondary Language:** C++ / SQL
+* **Automation:** [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) (Auto-syncs solutions from LeetCode)
+
+---
+
+## 👤 Author
+
+* **Rakesh Sen** 
+* GitHub: [@rakeshsenSE](https://github.com/rakeshsenSE)
+
+---
+⭐️ *If you find this repository helpful, feel free to give it a star!*
